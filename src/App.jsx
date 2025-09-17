@@ -145,13 +145,13 @@ export default function Portfolio() {
                 View Projects
               </a>
               <a
-                href="https://drive.google.com/file/d/1AdpSoBhHf4A8X5a3tqZ7eE4T54mP-14K/view?usp=sharing"
+                href="https://drive.google.com/file/d/1Y7YVjWpCBoAVAg7Payu1FrndyUoCeMwI/view?usp=sharing"
                 className="px-4 py-2 border border-gray-600 rounded text-gray-200 hover:bg-gray-800 relative z-10"
               >
                 Resume For Data Analyst Roles
               </a>
               <a
-                href="https://drive.google.com/file/d/1K5jGFlowznZEVd9tjBp9xW1rWYDBsbnl/view?usp=sharing"
+                href="https://drive.google.com/file/d/1ucD0dZqbYrN8jEIyoXFZmMwSLBlsg46W/view?usp=sharing"
                 className="px-4 py-2 border border-gray-600 rounded text-gray-200 hover:bg-gray-800 relative z-10"
               >
                Resume for Data Science/ML Roles.
@@ -244,13 +244,13 @@ export default function Portfolio() {
           <div className="flex flex-col sm:flex-row items-start gap-6">
             <div className="flex gap-3">
               <a
-                href="https://drive.google.com/file/d/1AdpSoBhHf4A8X5a3tqZ7eE4T54mP-14K/view?usp=sharing"
+                href="https://drive.google.com/file/d/1Y7YVjWpCBoAVAg7Payu1FrndyUoCeMwI/view?usp=sharing"
                 className="px-4 py-2 bg-teal-500 rounded text-gray-900 font-semibold"
               >
                 Download Data Analyst Resume
               </a>
               <a
-                href="https://drive.google.com/file/d/1K5jGFlowznZEVd9tjBp9xW1rWYDBsbnl/view?usp=sharing"
+                href="https://drive.google.com/file/d/1ucD0dZqbYrN8jEIyoXFZmMwSLBlsg46W/view?usp=sharing"
                 className="px-4 py-2 bg-indigo-600 rounded text-white font-semibold"
               >
                 Download Data Science/ML related Resume
