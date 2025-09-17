@@ -77,7 +77,7 @@ const projects = [
   }
 ];
 
-export default function NamanKumar_Portfolio() {
+export default function Portfolio() {
   const [activeProject, setActiveProject] = useState(null);
 
   function openProjectById(id) {
