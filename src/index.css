@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Animated Blobs */
+.animated-blob {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(80px); /* Adjust blur to your preference */
+  opacity: 0.3; /* A slight reduction in opacity for a softer look */
+  animation: blob-animation 20s infinite alternate ease-in-out;
+}
+
+/* Specific blob styles and initial positions */
+.blob-one {
+  width: 400px;
+  height: 400px;
+  top: 10%;
+  left: 5%;
+  animation-delay: 0s;
+}
+
+.blob-two {
+  width: 300px;
+  height: 300px;
+  top: 70%;
+  left: 20%;
+  animation-delay: 2s;
+}
+
+.blob-three {
+  width: 500px;
+  height: 500px;
+  top: 40%;
+  left: 80%;
+  animation-delay: 4s;
+}
+
+.blob-four {
+  width: 350px;
+  height: 350px;
+  top: 25%;
+  left: -10%;
+  animation-delay: 6s;
+}
+
+/* The animation keyframes */
+@keyframes blob-animation {
+  0% {
+    transform: translate(0, 0) scale(1);
+  }
+  25% {
+    transform: translate(20px, -30px) scale(1.1);
+  }
+  50% {
+    transform: translate(-50px, 50px) scale(0.9);
+  }
+  75% {
+    transform: translate(30px, 40px) scale(1.2);
+  }
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+}
