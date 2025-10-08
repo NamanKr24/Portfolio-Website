@@ -244,13 +244,13 @@ export default function Portfolio() {
           <div className="flex flex-col sm:flex-row items-start gap-6">
             <div className="flex gap-3">
               <a
-                href="https://drive.google.com/file/d/1w1FSgwRtNYqp7ywyeq20ku17o6vSniHc/view?usp=sharing"
+                href="https://drive.google.com/file/d/1Lu0tOVF8O5i2i-uI-rdjyB_-gHaBFCqV/view?usp=drivesdk"
                 className="px-4 py-2 bg-teal-500 rounded text-gray-900 font-semibold"
               >
                 Download Data Analyst Resume
               </a>
               <a
-                href="https://drive.google.com/file/d/1VHPkWJ3c-4BH1hm6T1OwG7K43uQc2QjW/view?usp=sharing"
+                href="https://drive.google.com/file/d/1cfpwRD33WTPckJlBsEc_NQQJtZldYdMs/view?usp=drivesdk"
                 className="px-4 py-2 bg-indigo-600 rounded text-white font-semibold"
               >
                 Download Data Science/ML related Resume
