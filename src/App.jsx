@@ -145,13 +145,13 @@ export default function Portfolio() {
                 View Projects
               </a>
               <a
-                href="https://drive.google.com/file/d/1w1FSgwRtNYqp7ywyeq20ku17o6vSniHc/view?usp=sharing"
+                href="https://drive.google.com/file/d/1Lu0tOVF8O5i2i-uI-rdjyB_-gHaBFCqV/view?usp=drivesdk"
                 className="px-4 py-2 border border-gray-600 rounded text-gray-200 hover:bg-gray-800 relative z-10"
               >
                 Resume For Data Analyst Roles
               </a>
               <a
-                href="https://drive.google.com/file/d/1VHPkWJ3c-4BH1hm6T1OwG7K43uQc2QjW/view?usp=sharing"
+                href="https://drive.google.com/file/d/1cfpwRD33WTPckJlBsEc_NQQJtZldYdMs/view?usp=drivesdk"
                 className="px-4 py-2 border border-gray-600 rounded text-gray-200 hover:bg-gray-800 relative z-10"
               >
                Resume for Data Science/ML Roles.
